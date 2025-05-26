@@ -1,0 +1,89 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "5a4ad3bc-9941-4ffe-927f-59f21f08105e")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 236.22 130.81)
+		(size 41.91 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "24d14827-fafd-4f0b-a342-fa17bf9504a0")
+		(property "Sheetname" "Components"
+			(at 236.22 130.0984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 236.22 142.8246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WLM"
+				(path "/5a4ad3bc-9941-4ffe-927f-59f21f08105e"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 236.22 147.32)
+		(size 41.91 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "39e334a6-7b58-4346-9167-b258adbc96ff")
+		(property "Sheetname" "Power"
+			(at 236.22 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 236.22 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "WLM"
+				(path "/5a4ad3bc-9941-4ffe-927f-59f21f08105e"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
